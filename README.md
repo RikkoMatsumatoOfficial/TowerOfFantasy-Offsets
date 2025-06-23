@@ -8,6 +8,8 @@
 
 That's Updated Offsets 2025 year(version 5.0)!!!
 
+[Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
+
 ## Donations
 
 [DonationAlerts(For Russians and Others Countries with Commonwealth of Independent States)](https://donationalerts.com/r/rikkomatsumato)
