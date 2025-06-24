@@ -1,12 +1,12 @@
 **Offsets for Current Game Tower of Fantasy:**
 
-- GObjects: 0x8FDE008
-- AppendString: 0x2BCAA00
-- GNames: 0x8FC5800
-- GWorld: 0x9126F10
-- ProcessEvent: 0x2DC1F20 (Index of ProcessEvent is 0x67)
+- GObjects: 0x907C188
+- AppendString: 0x2C1A680
+- GNames: 0x9063980
+- GWorld: 0x91C5090
+- ProcessEvent: 0x2E11BB0 (Index of ProcessEvent is 0x67)
 
-That's Updated Offsets 2025 year(version 5.0)!!!
+That's Updated Offsets 2025 year(version 5.1)!!!
 
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 
